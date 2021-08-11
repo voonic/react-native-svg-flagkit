@@ -1,33 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>HN</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#0884E6" offset="0%"></stop>
-            <stop stop-color="#0074D0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#0E88E9" offset="0%"></stop>
-            <stop stop-color="#0074D0" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="HN">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="10" width="21" height="5"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="5" width="21" height="5"></rect>
-            <polygon id="Star-20" fill="url(#linearGradient-3)" points="10.5 8 9.79289322 8.20710678 10 7.5 9.79289322 6.79289322 10.5 7 11.2071068 6.79289322 11 7.5 11.2071068 8.20710678"></polygon>
-            <polygon id="Star-20-Copy" fill="url(#linearGradient-3)" points="14.5 7 13.7928932 7.20710678 14 6.5 13.7928932 5.79289322 14.5 6 15.2071068 5.79289322 15 6.5 15.2071068 7.20710678"></polygon>
-            <polygon id="Star-20-Copy-2" fill="url(#linearGradient-3)" points="14.5 9 13.7928932 9.20710678 14 8.5 13.7928932 7.79289322 14.5 8 15.2071068 7.79289322 15 8.5 15.2071068 9.20710678"></polygon>
-            <polygon id="Star-20-Copy-3" fill="url(#linearGradient-3)" points="6.5 9 5.79289322 9.20710678 6 8.5 5.79289322 7.79289322 6.5 8 7.20710678 7.79289322 7 8.5 7.20710678 9.20710678"></polygon>
-            <polygon id="Star-20-Copy-4" fill="url(#linearGradient-3)" points="6.5 7 5.79289322 7.20710678 6 6.5 5.79289322 5.79289322 6.5 6 7.20710678 5.79289322 7 6.5 7.20710678 7.20710678"></polygon>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path style="fill:#4173CD;" d="M473.655,88.276H38.345C17.167,88.276,0,105.443,0,126.621v73.471h512v-73.471   C512,105.443,494.833,88.276,473.655,88.276z"/>
+	<path style="fill:#4173CD;" d="M0,385.379c0,21.177,17.167,38.345,38.345,38.345h435.31c21.177,0,38.345-17.167,38.345-38.345   v-73.471H0V385.379z"/>
+</g>
+<rect y="200.09" style="fill:#F5F5F5;" width="512" height="111.81"/>
+<g>
+	<path style="fill:#4173CD;" d="M257.277,241.579l3.159,9.473l9.985,0.077c1.293,0.01,1.828,1.66,0.789,2.428l-8.033,5.932   l3.012,9.521c0.389,1.233-1.013,2.252-2.066,1.501L256,264.703l-8.124,5.806c-1.052,0.751-2.455-0.268-2.066-1.501l3.012-9.521   l-8.033-5.932c-1.039-0.768-0.504-2.418,0.789-2.428l9.985-0.077l3.159-9.473C255.133,240.352,256.867,240.352,257.277,241.579z"/>
+	<path style="fill:#4173CD;" d="M167.104,267.002l3.159,9.473l9.985,0.077c1.293,0.01,1.828,1.66,0.789,2.428l-8.033,5.932   l3.012,9.521c0.39,1.233-1.013,2.252-2.066,1.501l-8.124-5.806l-8.124,5.806c-1.052,0.751-2.455-0.268-2.066-1.501l3.012-9.521   l-8.033-5.932c-1.041-0.768-0.504-2.418,0.789-2.428l9.985-0.077l3.159-9.473C164.96,265.775,166.695,265.775,167.104,267.002z"/>
+	<path style="fill:#4173CD;" d="M167.104,216.156l3.159,9.473l9.985,0.077c1.293,0.01,1.828,1.66,0.789,2.428l-8.033,5.932   l3.012,9.521c0.39,1.233-1.013,2.252-2.066,1.501l-8.124-5.806l-8.124,5.806c-1.052,0.751-2.455-0.268-2.066-1.501l3.012-9.521   l-8.033-5.932c-1.041-0.768-0.504-2.418,0.789-2.428l9.985-0.077l3.159-9.473C164.96,214.929,166.695,214.929,167.104,216.156z"/>
+	<path style="fill:#4173CD;" d="M347.448,267.002l3.159,9.473l9.985,0.077c1.293,0.01,1.828,1.66,0.789,2.428l-8.033,5.932   l3.012,9.521c0.389,1.233-1.013,2.252-2.066,1.501l-8.124-5.806l-8.124,5.806c-1.052,0.751-2.455-0.268-2.066-1.501l3.012-9.521   l-8.033-5.932c-1.041-0.768-0.504-2.418,0.789-2.428l9.985-0.077l3.159-9.473C345.305,265.775,347.04,265.775,347.448,267.002z"/>
+	<path style="fill:#4173CD;" d="M347.448,216.156l3.159,9.473l9.985,0.077c1.293,0.01,1.828,1.66,0.789,2.428l-8.033,5.932   l3.012,9.521c0.389,1.233-1.013,2.252-2.066,1.501l-8.124-5.806l-8.124,5.806c-1.052,0.751-2.455-0.268-2.066-1.501l3.012-9.521   l-8.033-5.932c-1.041-0.768-0.504-2.418,0.789-2.428l9.985-0.077l3.159-9.473C345.305,214.929,347.04,214.929,347.448,216.156z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

@@ -1,37 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>GW</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#1AB558" offset="0%"></stop>
-            <stop stop-color="#169E4D" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FFD952" offset="0%"></stop>
-            <stop stop-color="#FCD036" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#E72B42" offset="0%"></stop>
-            <stop stop-color="#CC162C" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#262626" offset="0%"></stop>
-            <stop stop-color="#0D0D0D" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="GW">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="7" width="21" height="8"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="7"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="0" y="0" width="8" height="15"></rect>
-            <polygon id="Star-53" fill="url(#linearGradient-5)" points="4 8.45877033 2.53053687 9.52254249 3.08815523 7.79627633 1.62235871 6.72745751 3.43644894 6.72433851 4 5 4.56355106 6.72433851 6.37764129 6.72745751 4.91184477 7.79627633 5.46946313 9.52254249"></polygon>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#FFE15A;" d="M473.885,88.279H38.115C17.045,88.403,0,105.517,0,126.617v129.385h512V126.617  C512,105.517,494.955,88.403,473.885,88.279z"/>
+<path style="fill:#73AF00;" d="M0,385.376c0,21.177,17.167,38.345,38.345,38.345h435.31c21.177,0,38.345-17.167,38.345-38.345  V256.003H0V385.376z"/>
+<path style="fill:#FF4B55;" d="M38.345,423.721h129.379V88.279H38.115C17.045,88.403,0,105.517,0,126.617v258.759  C0,406.553,17.167,423.721,38.345,423.721z"/>
+<path style="fill:#464655;" d="M82.197,211.962l-9.731,29.18l-30.759,0.238c-1.686,0.013-2.386,2.165-1.028,3.167l24.744,18.272  l-9.278,29.326c-0.509,1.608,1.322,2.937,2.694,1.958l25.024-17.887l25.024,17.887c1.372,0.981,3.202-0.35,2.694-1.958  l-9.278-29.326l24.744-18.272c1.356-1.002,0.658-3.154-1.028-3.167l-30.759-0.238l-9.731-29.18  C84.993,210.362,82.731,210.362,82.197,211.962z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

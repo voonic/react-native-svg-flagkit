@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>NR</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#0744A7" offset="0%"></stop>
-            <stop stop-color="#00307D" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FCC747" offset="0%"></stop>
-            <stop stop-color="#FEC539" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="NR">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-1337" fill="url(#linearGradient-3)" x="0" y="6" width="21" height="2"></rect>
-            <polygon id="Star-27" fill="url(#linearGradient-1)" points="5.5 12.25 4.72745751 13.3776413 4.76526843 12.0112712 3.47745751 12.4694631 4.31117935 11.3862712 3 11 4.31117935 10.6137288 3.47745751 9.53053687 4.76526843 9.98872876 4.72745751 8.62235871 5.5 9.75 6.27254249 8.62235871 6.23473157 9.98872876 7.52254249 9.53053687 6.68882065 10.6137288 8 11 6.68882065 11.3862712 7.52254249 12.4694631 6.23473157 12.0112712 6.27254249 13.3776413"></polygon>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#41479B;" d="M473.654,423.724H38.345C17.167,423.724,0,406.557,0,385.379V126.621  c0-21.177,17.167-38.345,38.345-38.345h435.309c21.177,0,38.345,17.167,38.345,38.345v258.758  C511.999,406.557,494.831,423.724,473.654,423.724z"/>
+<rect y="238.341" style="fill:#FFE15A;" width="512" height="35.31"/>
+<polygon style="fill:#F5F5F5;" points="119.172,308.966 124.313,329.505 139.034,314.288 133.217,334.645 153.574,328.828   138.358,343.55 158.896,348.69 138.358,353.831 153.574,368.552 133.217,362.735 139.034,383.092 124.313,367.876 119.172,388.414   114.031,367.876 99.31,383.092 105.128,362.735 84.77,368.552 99.987,353.831 79.448,348.69 99.987,343.55 84.77,328.828   105.128,334.645 99.31,314.288 114.031,329.505 "/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

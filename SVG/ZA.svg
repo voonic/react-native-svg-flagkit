@@ -1,44 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>ZA</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#06A86E" offset="0%"></stop>
-            <stop stop-color="#007A4E" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FFBF2E" offset="0%"></stop>
-            <stop stop-color="#FFB612" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#262626" offset="0%"></stop>
-            <stop stop-color="#0D0D0D" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#F44E46" offset="0%"></stop>
-            <stop stop-color="#DF3931" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
-            <stop stop-color="#072CB4" offset="0%"></stop>
-            <stop stop-color="#042396" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ZA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <polygon id="Rectangle-83" fill="url(#linearGradient-3)" points="0 2 7 7.5 0 13"></polygon>
-            <polygon id="Rectangle-83-Copy-5" fill="url(#linearGradient-4)" points="-1 2.25 5.75 7.5 -1 12.75"></polygon>
-            <polygon id="Rectangle-83-Copy" fill="#FFFFFF" points="9 6 2 0 21 0 21 6"></polygon>
-            <polygon id="Rectangle-83-Copy-3" fill="url(#linearGradient-5)" points="9.25 5 3.25 0 21 0 21 5"></polygon>
-            <polygon id="Rectangle-83-Copy-2" fill="#FFFFFF" points="2 15 21 15 21 9 9 9"></polygon>
-            <polygon id="Rectangle-83-Copy-4" fill="url(#linearGradient-6)" points="3.25 15 21 15 21 10 9.25 10"></polygon>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<polygon style="fill:#464655;" points="0,150.069 0,361.931 141.241,256 "/>
+<path style="fill:#FF4B55;" d="M473.655,88.276H70.621l158.897,123.586H512v-85.241C512,105.443,494.833,88.276,473.655,88.276z"/>
+<path style="fill:#41479B;" d="M70.621,423.724h403.034c21.177,0,38.345-17.167,38.345-38.345v-85.241H229.517L70.621,423.724z"/>
+<path style="fill:#73AF00;" d="M56.889,88.276H38.345C17.167,88.276,0,105.443,0,126.621v6.692L154.974,256L0,378.691v6.688  c0,21.177,17.167,38.345,38.345,38.345h18.539L224.146,291.31H512v-70.62H224.148L56.889,88.276z"/>
+<polygon style="fill:#F5F5F5;" points="85.333,88.276 56.889,88.276 224.148,220.69 512,220.69 512,203.034 230.291,203.034 "/>
+<polygon style="fill:#FFE15A;" points="0,133.313 0,155.831 126.53,256 0,356.173 0,378.691 154.974,256 "/>
+<polygon style="fill:#F5F5F5;" points="224.147,291.31 56.884,423.724 85.329,423.724 230.289,308.966 512,308.966 512,291.31 "/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

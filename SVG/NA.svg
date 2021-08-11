@@ -1,75 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>NA</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#0C4799" offset="0%"></stop>
-            <stop stop-color="#05387E" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-3" points="3.12149555 12.3039496 24.1214956 2.30394957 3.12149555 2.30394957"></polygon>
-        <filter x="-3.6%" y="-7.5%" width="107.1%" height="115.0%" filterUnits="objectBoundingBox" id="filter-4">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#FFD243" offset="0%"></stop>
-            <stop stop-color="#FFCD2F" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-6" points="6.62149555 6.80394957 5.85612869 7.65170864 5.91438877 6.51105635 4.77373649 6.56931644 5.62149555 5.80394957 4.77373649 5.03858271 5.91438877 5.09684279 5.85612869 3.95619051 6.62149555 4.80394957 7.38686242 3.95619051 7.32860234 5.09684279 8.46925462 5.03858271 7.62149555 5.80394957 8.46925462 6.56931644 7.32860234 6.51105635 7.38686242 7.65170864"></polygon>
-        <filter x="-6.2%" y="-6.2%" width="112.5%" height="125.0%" filterUnits="objectBoundingBox" id="filter-7">
-            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
-            <stop stop-color="#1BAC55" offset="0%"></stop>
-            <stop stop-color="#149447" offset="100%"></stop>
-        </linearGradient>
-        <polygon id="path-9" points="3.12149555 17.3039496 24.1214956 17.3039496 24.1214956 7.30394957"></polygon>
-        <filter x="-3.6%" y="-7.5%" width="107.1%" height="115.0%" filterUnits="objectBoundingBox" id="filter-10">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <polygon id="path-11" points="5.43328436 19.3039725 25.7495351 6.60897002 21.8097068 0.30392669 1.49345602 12.9989291"></polygon>
-        <filter x="-3.1%" y="-3.9%" width="106.2%" height="107.9%" filterUnits="objectBoundingBox" id="filter-12">
-            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
-            <stop stop-color="#E52347" offset="0%"></stop>
-            <stop stop-color="#D01739" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="NA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <g id="Group-2" transform="translate(-3.120000, -2.300000)">
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
-                </g>
-                <g id="Star-31">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
-                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
-                </g>
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-                    <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
-                </g>
-                <g id="Rectangle-2">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-11"></use>
-                </g>
-                <polygon id="Rectangle-2" fill="url(#linearGradient-13)" points="2.64959632 19.6078991 27.2429911 4.24024048 24.5933948 1.77635684e-15 -1.77635684e-14 15.3676587"></polygon>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#41479B;" d="M38.345,88.276C17.167,88.276,0,105.443,0,126.621v217.655l388.414-256H38.345z"/>
+<path style="fill:#73AF00;" d="M473.655,423.724c21.177,0,38.345-17.167,38.345-38.345V167.724l-388.414,256H473.655z"/>
+<path style="fill:#F5F5F5;" d="M473.655,88.276h-90.516L0,339.298v46.081c0,21.177,17.167,38.345,38.345,38.345h90.516L512,172.702  v-46.081C512,105.443,494.833,88.276,473.655,88.276z"/>
+<path style="fill:#FF4B55;" d="M473.655,88.276h-42.2L0,370.953v14.426c0,21.177,17.167,38.345,38.345,38.345h42.2L512,141.047  v-14.426C512,105.443,494.833,88.276,473.655,88.276z"/>
+<g>
+	<path style="fill:#FFE15A;" d="M90.207,145.894c8.691,0,16.557,3.521,22.254,9.214l3.125-21.686l-17.235,13.561l-8.145-20.362   l-8.145,20.362l-17.235-13.561l3.125,21.686C73.65,149.414,81.516,145.894,90.207,145.894z"/>
+	<path style="fill:#FFE15A;" d="M67.935,199.634c-5.693-5.697-9.214-13.565-9.214-22.254c0-8.691,3.521-16.557,9.214-22.254   L46.249,152l13.561,17.235l-20.362,8.145l20.362,8.145L46.249,202.76L67.935,199.634z"/>
+	<path style="fill:#FFE15A;" d="M140.966,177.379l-20.362-8.145L134.165,152l-21.686,3.125c5.693,5.697,9.214,13.565,9.214,22.254   c0,8.69-3.521,16.557-9.214,22.254l21.686,3.125l-13.561-17.235L140.966,177.379z"/>
+	<path style="fill:#FFE15A;" d="M90.207,208.865c-8.691,0-16.557-3.521-22.254-9.214l-3.125,21.686l17.235-13.561l8.145,20.362   l8.145-20.362l17.235,13.561l-3.125-21.686C106.764,205.345,98.898,208.865,90.207,208.865z"/>
+	<circle style="fill:#FFE15A;" cx="90.21" cy="177.38" r="25.709"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

@@ -1,27 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>GG</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#F33349" offset="0%"></stop>
-            <stop stop-color="#E51D34" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#FCE24C" offset="0%"></stop>
-            <stop stop-color="#F9DC38" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="GG">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <path d="M9,6 L0,6 L0,9 L9,9 L9,15 L12,15 L12,9 L21,9 L21,6 L12,6 L12,0 L9,0 L9,6 Z" id="Rectangle-2" fill="url(#linearGradient-2)"></path>
-            <path d="M10,8 L10,12 L9.5,13 L11.5,13 L11,12 L11,8 L15,8 L16,8.5 L16,6.5 L15,7 L11,7 L11,3 L11.5,2 L9.5,2 L10,3 L10,7 L6,7 L5,6.5 L5,8.5 L6,8 L10,8 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#F5F5F5;" d="M473.654,423.724H38.345C17.167,423.724,0,406.556,0,385.379V126.621  c0-21.177,17.167-38.345,38.345-38.345h435.309c21.177,0,38.345,17.167,38.345,38.345v258.758  C511.999,406.556,494.831,423.724,473.654,423.724z"/>
+<polygon style="fill:#FF4B55;" points="512,220.69 291.31,220.69 291.31,88.276 220.689,88.276 220.689,220.69 0,220.69 0,291.31   220.689,291.31 220.689,423.724 291.31,423.724 291.31,291.31 512,291.31 "/>
+<g>
+	<polygon style="fill:#FFE15A;" points="361.93,282.483 361.93,229.517 348.689,242.759 163.31,242.759 150.069,229.517    150.069,282.483 163.31,269.241 348.689,269.241  "/>
+	<polygon style="fill:#FFE15A;" points="229.517,361.931 282.482,361.931 269.241,348.689 269.241,163.311 282.482,150.069    229.517,150.069 242.758,163.311 242.758,348.689  "/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>

@@ -1,38 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
-    <title>PT</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#F0F0F0" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-            <stop stop-color="#FF2936" offset="0%"></stop>
-            <stop stop-color="#FD0D1B" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
-            <stop stop-color="#128415" offset="0%"></stop>
-            <stop stop-color="#0A650C" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-            <stop stop-color="#FAF94F" offset="0%"></stop>
-            <stop stop-color="#F8F736" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#1D50B5" offset="0%"></stop>
-            <stop stop-color="#15439D" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="PT">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
-            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-3)" x="0" y="0" width="8" height="15"></rect>
-            <path d="M8,9.5 C9.1045695,9.5 10,8.6045695 10,7.5 C10,6.3954305 9.1045695,5.5 8,5.5 C6.8954305,5.5 6,6.3954305 6,7.5 C6,8.6045695 6.8954305,9.5 8,9.5 Z M8,10.5 C6.34314575,10.5 5,9.15685425 5,7.5 C5,5.84314575 6.34314575,4.5 8,4.5 C9.65685425,4.5 11,5.84314575 11,7.5 C11,9.15685425 9.65685425,10.5 8,10.5 Z" id="Oval-1" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
-            <path d="M7,6.25577831 C7,6.11451585 7.10752869,6 7.24523926,6 L8.75476074,6 C8.89020264,6 9,6.11394024 9,6.25577831 L9,8.00104344 C9,8.55275191 8.55613518,9 8,9 C7.44771525,9 7,8.55733967 7,8.00104344 L7,6.25577831 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
-            <path d="M8,8 C8.27614237,8 8.5,7.27614237 8.5,7 C8.5,6.72385763 8.27614237,6.5 8,6.5 C7.72385763,6.5 7.5,6.72385763 7.5,7 C7.5,7.27614237 7.72385763,8 8,8 Z" id="Oval-27" fill="url(#linearGradient-5)"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#FF4B55;" d="M473.655,423.724H38.345C17.167,423.724,0,406.557,0,385.378V126.62  c0-21.177,17.167-38.345,38.345-38.345h435.31c21.177,0,38.345,17.167,38.345,38.345V385.38  C512,406.557,494.833,423.724,473.655,423.724z"/>
+<path style="fill:#73AF00;" d="M38.345,88.275C17.167,88.275,0,105.442,0,126.62V385.38c0,21.177,17.167,38.345,38.345,38.345  h147.034V88.275H38.345z"/>
+<circle style="fill:#FFE15A;" cx="185.45" cy="255.999" r="79.38"/>
+<path style="fill:#FF4B55;" d="M211.932,229.516v35.31c0,14.603-11.88,26.483-26.483,26.483s-26.483-11.88-26.483-26.483v-35.31  H211.932 M220.759,211.861h-70.621c-4.875,0-8.828,3.953-8.828,8.828v44.138c0,24.376,19.762,44.138,44.138,44.138  s44.138-19.762,44.138-44.138v-44.138C229.587,215.814,225.634,211.861,220.759,211.861L220.759,211.861z"/>
+<path style="fill:#F5F5F5;" d="M211.932,229.516v35.31c0,14.603-11.88,26.483-26.483,26.483s-26.483-11.88-26.483-26.483v-35.31  H211.932"/>
+<g>
+	<circle style="fill:#FFE15A;" cx="150.07" cy="220.689" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="220.69" cy="220.689" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="150.07" cy="255.999" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="220.69" cy="255.999" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="185.38" cy="220.689" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="211.88" cy="288.549" r="4.414"/>
+	<circle style="fill:#FFE15A;" cx="159.4" cy="288.549" r="4.414"/>
+</g>
+<g>
+	<path style="fill:#41479B;" d="M191.149,253.761v7.602c0,3.144-2.558,5.702-5.702,5.702s-5.702-2.558-5.702-5.702v-7.602   L191.149,253.761"/>
+	<path style="fill:#41479B;" d="M191.149,235.74v7.602c0,3.144-2.558,5.702-5.702,5.702s-5.702-2.558-5.702-5.702v-7.602H191.149"/>
+	<path style="fill:#41479B;" d="M191.149,271.969v7.602c0,3.144-2.558,5.702-5.702,5.702s-5.702-2.558-5.702-5.702v-7.602H191.149"/>
+	<path style="fill:#41479B;" d="M206.506,253.761v7.602c0,3.144-2.558,5.702-5.702,5.702s-5.702-2.558-5.702-5.702v-7.602   L206.506,253.761"/>
+	<path style="fill:#41479B;" d="M175.794,253.761v7.602c0,3.144-2.558,5.702-5.702,5.702s-5.702-2.558-5.702-5.702v-7.602   L175.794,253.761"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>
